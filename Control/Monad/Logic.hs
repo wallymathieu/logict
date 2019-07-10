@@ -18,6 +18,7 @@
 -------------------------------------------------------------------------
 
 {-# LANGUAGE CPP, UndecidableInstances, Rank2Types, FlexibleInstances, MultiParamTypeClasses #-}
+{-# LANGUAGE Safe #-}
 
 module Control.Monad.Logic (
     module Control.Monad.Logic.Class,
